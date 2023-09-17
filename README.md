@@ -1,3 +1,4 @@
 # Web_Scraper
 
-Web_Scraper project in  the Natural Language Processing Track (on Jetbrains Academy)
+
+Build a Web Scraper python's librairies: <b> BeautifulSoup4, Requests </b>.
